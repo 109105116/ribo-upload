@@ -1,0 +1,82 @@
+Target_381	too_short
+Target_262	too_short
+Target_259	too_short
+Target_378	too_short
+Target_248	too_short
+Target_328	double free or corruption (!prev)
+/workspace/ash/code/c/code/run/run_sg2.sh: line 63: 1459022 Aborted                 (core dumped) mmseqs result2msa "$QUERY_DB" "${DB_PATH}.idx" "$RESULT_DB" "$OUT_A3M" --msa-format-mode 6 --filter-msa "$FILTER_MSA" --max-seq-id "$MAX_SEQ_ID" --cov "$COV" --qid "$QID" --qsc "$QSC" --diff "$DIFF" --threads "$THREADS" -v 1
+
+Target_150	too_short
+Target_154	too_short
+Target_245	too_short
+Target_145	too_short
+Target_182	too_short
+Target_156	too_short
+Target_382	too_short
+Target_313	double free or corruption (!prev)
+/workspace/ash/code/c/code/run/run_sg2.sh: line 63: 1468105 Aborted                 (core dumped) mmseqs result2msa "$QUERY_DB" "${DB_PATH}.idx" "$RESULT_DB" "$OUT_A3M" --msa-format-mode 6 --filter-msa "$FILTER_MSA" --max-seq-id "$MAX_SEQ_ID" --cov "$COV" --qid "$QID" --qsc "$QSC" --diff "$DIFF" --threads "$THREADS" -v 1
+
+Target_250	too_short
+Target_375	too_short
+Target_149	too_short
+Target_139	too_short
+Target_188	too_short
+Target_432	too_short
+Target_407	too_short
+Target_151	too_short
+Target_376	too_short
+Target_153	too_short
+Target_252	too_short
+Target_137	too_short
+Target_380	too_short
+Target_243	too_short
+Target_379	too_short
+Target_436	too_short
+Target_136	too_short
+Target_256	too_short
+Target_177	too_short
+Target_144	too_short
+Target_244	too_short
+Target_208	too_short
+Target_152	too_short
+Target_121	too_short
+Target_357	too_short
+Target_434	too_short
+Target_254	too_short
+Target_312	double free or corruption (!prev)
+/workspace/ash/code/c/code/run/run_sg2.sh: line 63: 1525678 Aborted                 (core dumped) mmseqs result2msa "$QUERY_DB" "${DB_PATH}.idx" "$RESULT_DB" "$OUT_A3M" --msa-format-mode 6 --filter-msa "$FILTER_MSA" --max-seq-id "$MAX_SEQ_ID" --cov "$COV" --qid "$QID" --qsc "$QSC" --diff "$DIFF" --threads "$THREADS" -v 1
+
+Target_157	too_short
+Target_242	too_short
+Target_138	too_short
+Target_431	too_short
+Target_439	too_short
+Target_437	too_short
+Target_172	too_short
+Target_62	too_short
+Target_211	too_short
+Target_131	too_short
+Target_219	too_short
+Target_120	too_short
+Target_173	too_short
+Target_377	too_short
+Target_155	too_short
+Target_253	too_short
+Target_220	too_short
+Target_438	too_short
+Target_261	too_short
+Target_260	too_short
+Target_354	too_short
+Target_255	too_short
+Target_209	too_short
+Target_251	too_short
+Target_249	too_short
+Target_355	too_short
+Target_356	too_short
+Target_362	too_short
+Target_374	too_short
+Target_141	too_short
+Target_222	too_short
+Target_433	too_short
+Target_440	too_short
+Target_257	too_short
