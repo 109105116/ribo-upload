@@ -8,6 +8,6 @@ See comment in config.py for data info.
 
 **Paper**: (pending)
 
-**RiboLead drug-screening platform**: (coming soon)
+**RiboLead drug-screening platform**: see repo `about` section in the top right
 
 Contact chrwn@duck.com for replication support.
